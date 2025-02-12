@@ -1,0 +1,24 @@
+{
+    "data": [
+        "mesa", "silla", "computadora", "libro", "ventana", "puerta", "lámpara", "espejo", "reloj", "televisor",
+        "perro", "gato", "elefante", "tigre", "león", "jirafa", "mono", "pájaro", "pez", "tortuga",
+        "El Padrino", "Titanic", "Star Wars", "El Señor de los Anillos", "Harry Potter", "Jurassic Park", "Avatar", "Inception", "Matrix", "Forrest Gump",
+        "correr", "saltar", "nadar", "escribir", "leer", "dibujar", "cantar", "bailar", "cocinar", "conducir",
+        "cuchara", "tenedor", "cuchillo", "plato", "vaso", "botella", "olla", "sartén", "taza", "servilleta",
+        "ballena", "delfín", "oso", "lobo", "zorro", "conejo", "ardilla", "murciélago", "serpiente", "rana",
+        "Pulp Fiction", "El Resplandor", "Gladiador", "Interestelar", "El Laberinto del Fauno", "Los Vengadores", "El Rey León", "Toy Story", "Frozen", "Shrek",
+        "pintar", "cortar", "pegar", "construir", "destruir", "planear", "organizar", "limpiar", "lavar", "secar",
+        "teléfono", "tablet", "cámara", "auriculares", "micrófono", "altavoz", "impresora", "escáner", "teclado", "ratón",
+        "águila", "halcón", "búho", "cisne", "pato", "ganso", "flamenco", "pingüino", "colibrí", "gorrión",
+        "El Silencio de los Inocentes", "El Club de la Pelea", "Origen", "Dunkerque", "La La Land", "El Gran Hotel Budapest", "Parásitos", "Joker", "1917", "Tenet",
+        "estudiar", "enseñar", "aprender", "pensar", "reflexionar", "meditar", "soñar", "imaginar", "crear", "innovar",
+        "maleta", "mochila", "paraguas", "sombrilla", "gafas", "reloj de pulsera", "anillo", "collar", "pulsera", "aretes",
+        "cocodrilo", "hipopótamo", "rinoceronte", "cebra", "camello", "llama", "alpaca", "puma", "jaguar", "leopardo",
+        "El Caballero de la Noche", "Los Miserables", "El Curioso Caso de Benjamin Button", "El Origen del Planeta de los Simios", "Mad Max: Furia en la Carretera", "El Renacido", "La Forma del Agua", "Bohemian Rhapsody", "Roma", "El Irlandés",
+        "caminar", "tropezar", "caer", "levantar", "empujar", "jalar", "girar", "doblar", "estirar", "encoger",
+        "caja", "bolsa", "estuche", "cajón", "armario", "estante", "repisa", "perchero", "percha", "gancho",
+        "mariposa", "abeja", "hormiga", "araña", "escorpión", "ciempiés", "milpiés", "caracol", "langosta", "cangrejo",
+        "El Viaje de Chihiro", "Mi Vecino Totoro", "El Castillo Ambulante", "La Princesa Mononoke", "Nausicaä del Valle del Viento", "El Viento se Levanta", "Ponyo", "El Cuento de la Princesa Kaguya", "Susurros del Corazón", "Recuerdos del Ayer",
+        "observar", "escuchar", "oler", "saborear", "tocar", "sentir", "percibir", "notar", "descubrir", "explorar"
+    ]
+}

@@ -15,11 +15,13 @@
     <body>
         <section>
             <h1>Hangman</h1>
-            <img id="gif-clue" name="gif-clue" src="" />
+            <img id="gif-clue" width="400" height="400" name="gif-clue" src="" />
             <div id="result"></div>
-            <input id="text-attempt" />
-            <button id="button-attempt" onclick="attempt()">Salvar</button>
-            <!-- <button id="button-retry" onclick="retry()">Salvar</button> -->
+            <section id="attempt-form">
+                <input id="text-attempt" />
+                <button id="button-attempt" onclick="attempt()">Salvar</button>
+            </section>
+            <button id="button-retry" onclick="tryAgain()">Generar Otra</button>
         </section>
     </body>
     <script type="module" src="./script.js"></script>
